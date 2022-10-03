@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vignesh Ayyamani</h1>
+<h1 align="center">Hi 👋, I'm Vignesh</h1>
 <h3 align="center">A passionate SDET from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=automationbytes&label=Profile%20views&color=0e75b6&style=flat" alt="automationbytes" /> </p>
